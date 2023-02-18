@@ -1,18 +1,22 @@
 {
     "tags": [
         {
+            "id": 1,
             "tag": "win_11_64_Pro",
             "description": "Windows 11 Pro x64"
         },
         {
+            "id": 2,
             "tag": "win_10_64_Pro",
             "description": "Windows 10 Pro x64"
         },
         {
+            "id": 3,
             "tag": "win_server_2012",
             "description": "Windows Server 2012"
         },
         {
+            "id": 4,
             "tag": "win_server_2016",
             "description": "Windows Server 2016"
         }
