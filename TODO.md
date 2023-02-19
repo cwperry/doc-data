@@ -3,6 +3,7 @@ TODO:
 
 ```
  {
+     "id": 1
      "tag": "win_11_64_Pro",
      "description": "Windows 11 Pro x64"
  }
@@ -13,13 +14,20 @@ TODO:
 ```
 {
     {
+        "id": 1
         "tag": "win_11_64_Pro",
         "description": "Windows 11 Pro x64"
     },
-    "name": "Name of vm windows server 2012 - 2",
+    "name": "QA-WIN11-64-PRO-4",
     "testRunId": "",
     "scenarioId": ""
 }
  ```   
+
+
+- Add story to add another checkout endpoint to include version which will install the the agent version before returning instance
+
+- Add story to remove `MISSING_TAG` from `allInstances` endpoint. 
+
 
     

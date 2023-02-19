@@ -2,23 +2,97 @@
     "tags": [
         {
             "id": 1,
-            "tag": "win_11_64_Pro",
-            "description": "Windows 11 Pro x64"
+            "tag": "w_11_64_p", 
+            "description": "Windows 11 Pro x64",
+            "template": "vmware template file"
         },
         {
             "id": 2,
-            "tag": "win_10_64_Pro",
+            "tag": "w_10_64_p",
             "description": "Windows 10 Pro x64"
         },
         {
             "id": 3,
-            "tag": "win_server_2012",
+            "tag": "w_2012_64",
             "description": "Windows Server 2012"
         },
         {
             "id": 4,
-            "tag": "win_server_2016",
+            "tag": "w_2016_64",
             "description": "Windows Server 2016"
+        },
+        {
+            "id": 5,
+            "tag": "w_2019_64",
+            "description": "Windows Server 2019"
         }
+    ],
+    "allInstances": [
+        {
+            "w_2019_644": {
+              "AUS-ALKA-W19-02": {
+                "id": 1,
+                "tag": "WINS1964",
+                "name": "AUS-ALKA-W19-02",
+                "ipAddress": "10.6.101.40",
+                "dnsName": "",
+                "testRunId": null
+              },
+              "AUS-ALKA-W19-01": {
+                "id": 2,
+                "tag": "WINS1964",
+                "name": "AUS-ALKA-W19-01",
+                "ipAddress": "10.6.101.35",
+                "dnsName": "",
+                "testRunId": null
+              }
+            },
+            "w_2016_64": {
+              "AUS-ALKA-W16-01": {
+                "id": 3,
+                "tag": "WINS1664",
+                "name": "AUS-ALKA-W16-01",
+                "ipAddress": "10.6.101.31",
+                "dnsName": "",
+                "testRunId": null
+              },
+              "AUS-ALKA-W16-02": {
+                "id": 4,
+                "tag": "WINS1664",
+                "name": "AUS-ALKA-W16-02",
+                "ipAddress": "10.6.101.37",
+                "dnsName": "",
+                "testRunId": null
+              }
+            },
+            "w_11_64_p": {
+              "AUS-ALKA-W11-04": {
+                "id": 5,
+                "tag": "WIN1164",
+                "name": "AUS-ALKA-W11-04",
+                "ipAddress": "10.6.101.42",
+                "dnsName": "",
+                "testRunId": null
+              },
+              "AUS-ALKA-W11-05": {
+                "id": 6,
+                "tag": "WIN1164",
+                "name": "AUS-ALKA-W11-05",
+                "ipAddress": "10.6.101.43",
+                "dnsName": "",
+                "testRunId": null
+              }
+            },
+            "w_10_64_p": {
+              "AUS-ALKA-W10-01": {
+                "id": 7,
+                "tag": "WIN1064",
+                "name": "AUS-ALKA-W10-01",
+                "ipAddress": "10.6.101.39",
+                "dnsName": "",
+                "testRunId": null
+              }
+            }
+          }
     ]
 }
