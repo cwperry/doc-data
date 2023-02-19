@@ -38,29 +38,11 @@
             "testRunId": "manual"
         },
         {
-            "id": 2,
-            "tag": "w_2019_64",
-            "tagDescription": "Windows Server 2019",
-            "name": "AUS-ALKA-W19-01",
-            "ipAddress": "10.6.101.35",
-            "dnsName": "",
-            "testRunId": "manual"
-        },
-        {
             "id": 3,
             "tag": "w_2016_64",
             "tagDescription": "Windows Server 2016",
             "name": "AUS-ALKA-W16-01",
             "ipAddress": "10.6.101.31",
-            "dnsName": "",
-            "testRunId": "manual"
-        },
-        {
-            "id": 4,
-            "tag": "w_2016_64",
-            "tagDescription": "Windows Server 2016",
-            "name": "AUS-ALKA-W16-02",
-            "ipAddress": "10.6.101.37",
             "dnsName": "",
             "testRunId": "manual"
         },
@@ -74,19 +56,10 @@
             "testRunId": "manual"
         },
         {
-            "id": 6,
-            "tag": "w_11_64_p",
-            "tagDescription": "Windows 11 Pro x64",
-            "name": "AUS-ALKA-W11-05",
-            "ipAddress": "10.6.101.43",
-            "dnsName": "",
-            "testRunId": "manual"
-        },
-        {
             "id": 7,
-            "tag": "w_2016_64",
-            "tagDescription": "Windows Server 2016",
-            "name": "AUS-ALKA-W10-01",
+            "tag": "w_2012_64",
+            "tagDescription": "Windows Server 2012",
+            "name": "AUS-ALKA-W12-01",
             "ipAddress": "10.6.101.39",
             "dnsName": "",
             "testRunId": "manual"
