@@ -32,7 +32,7 @@
             "w_2019_644": {
               "AUS-ALKA-W19-02": {
                 "id": 1,
-                "tag": "WINS1964",
+                "tag": "w_2019_644",
                 "name": "AUS-ALKA-W19-02",
                 "ipAddress": "10.6.101.40",
                 "dnsName": "",
@@ -40,7 +40,7 @@
               },
               "AUS-ALKA-W19-01": {
                 "id": 2,
-                "tag": "WINS1964",
+                "tag": "w_2019_644",
                 "name": "AUS-ALKA-W19-01",
                 "ipAddress": "10.6.101.35",
                 "dnsName": "",
@@ -50,7 +50,7 @@
             "w_2016_64": {
               "AUS-ALKA-W16-01": {
                 "id": 3,
-                "tag": "WINS1664",
+                "tag": "w_2016_64",
                 "name": "AUS-ALKA-W16-01",
                 "ipAddress": "10.6.101.31",
                 "dnsName": "",
@@ -58,7 +58,7 @@
               },
               "AUS-ALKA-W16-02": {
                 "id": 4,
-                "tag": "WINS1664",
+                "tag": "w_2016_64",
                 "name": "AUS-ALKA-W16-02",
                 "ipAddress": "10.6.101.37",
                 "dnsName": "",
@@ -68,7 +68,7 @@
             "w_11_64_p": {
               "AUS-ALKA-W11-04": {
                 "id": 5,
-                "tag": "WIN1164",
+                "tag": "w_11_64_p",
                 "name": "AUS-ALKA-W11-04",
                 "ipAddress": "10.6.101.42",
                 "dnsName": "",
@@ -76,7 +76,7 @@
               },
               "AUS-ALKA-W11-05": {
                 "id": 6,
-                "tag": "WIN1164",
+                "tag": "w_11_64_p",
                 "name": "AUS-ALKA-W11-05",
                 "ipAddress": "10.6.101.43",
                 "dnsName": "",
@@ -86,7 +86,7 @@
             "w_10_64_p": {
               "AUS-ALKA-W10-01": {
                 "id": 7,
-                "tag": "WIN1064",
+                "tag": "w_10_64_p",
                 "name": "AUS-ALKA-W10-01",
                 "ipAddress": "10.6.101.39",
                 "dnsName": "",
